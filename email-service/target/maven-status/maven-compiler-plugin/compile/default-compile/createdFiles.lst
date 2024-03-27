@@ -1,0 +1,4 @@
+com\vlsystem\api\email\Email.class
+com\vlsystem\api\email\EmailService.class
+com\vlsystem\api\email\EmailController.class
+com\vlsystem\api\email\EmailServiceApplication.class

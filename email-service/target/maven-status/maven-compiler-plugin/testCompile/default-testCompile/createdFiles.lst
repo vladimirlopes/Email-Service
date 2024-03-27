@@ -1,0 +1,3 @@
+com\vlsystem\api\email\TestMailSenderConfig.class
+EmailServiceTest.class
+com\vlsystem\api\email\EmailServiceApplicationTests.class
